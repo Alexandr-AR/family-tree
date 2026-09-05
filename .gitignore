@@ -1,0 +1,12 @@
+# Медиа-файлы
+images/
+videos/
+text/
+
+# IDE
+.idea/
+.vscode/
+
+# Системные файлы
+Thumbs.db
+.DS_Store
