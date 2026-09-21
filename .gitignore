@@ -5,7 +5,6 @@ text/
 
 # IDE
 .idea/
-.vscode/
 
 # Системные файлы
 Thumbs.db
